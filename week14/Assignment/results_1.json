@@ -1,0 +1,9 @@
+{
+  "model": "distilbert-base-uncased",
+  "test_accuracy": 0.9987694831829368,
+  "test_precision": 0.9988011184429552,
+  "test_recall": 0.9984444736562068,
+  "test_f1": 0.9986172196565193,
+  "avg_latency_ms": 14.66071605682373,
+  "peak_gpu_mem_gb": 0.946044416
+}

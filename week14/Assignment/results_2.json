@@ -1,0 +1,9 @@
+{
+  "model": "Qwen/Qwen2.5-0.5B-Instruct (LoRA)",
+  "test_accuracy": 0.9995896594173164,
+  "test_precision": 0.9994523548740417,
+  "test_recall": 0.9997057958223007,
+  "test_f1": 0.9995780096746177,
+  "avg_latency_ms": 608.1765250557265,
+  "peak_gpu_mem_gb": 1.860868096
+}
